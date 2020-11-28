@@ -12,4 +12,3 @@ bcrypt.hash(password, saltRound, (error, hash) => {
         console.log(isMatch, "is false");
     });
 });
-
